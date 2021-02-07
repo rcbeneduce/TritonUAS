@@ -10,6 +10,7 @@ Created on Wed Jan 20 08:15:12 2021
 #airfoiltools.com/airfoil/naca4digit
 #nonsymmetrical airfoils only
 #see other file for symmetrical airfoils
+#symmetrical airfoils will contain a 00 at the beginning
 import math
 
 NACA=list(str(2424)) #Full NACA Airfoil #will get buggy if airfoil has 00s

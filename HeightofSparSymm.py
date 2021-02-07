@@ -11,6 +11,7 @@ Created on Wed Jan 20 17:38:26 2021
 #airfoiltools.com/airfoil/naca4digit
 #symmetrical airfoils only
 #see other file for nonsymmetrical airfoils
+#symmetrical airfoils will contain a 00 at the beginning
 
 T=(24)/100 #number provided is the last two digits of the NACA 00## airfoil
 
